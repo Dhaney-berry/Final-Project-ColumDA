@@ -1,4 +1,4 @@
-# Final-Project-ColumDA # Ames Housing Data Engineering and Exploration
+# Final-Project-ColumDA # Ames Housing Data Machine Learning Engineering and Exploration
 
 ## Project Overview
 This project focuses on the Ames Iowa Housing dataset, applying data engineering techniques to clean, transform, and explore the data. The primary objectives include:
